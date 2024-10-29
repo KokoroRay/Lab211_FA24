@@ -1,0 +1,6 @@
+SV001#Nguyen Minh Tam#03-Mar-2004#8.2
+SV007#Nguyen Van N#12-Jan-2004#7.4
+SV003#Nguyen Van A#05-Oct-2001#7.2
+SV005#Tran Thai Duong#09-Jan-2003#4.3
+SV002#Nguyen Van A#04-Jan-2003#3.4
+SV006#Nguyen Van C#12-Jan-2004#3.2
